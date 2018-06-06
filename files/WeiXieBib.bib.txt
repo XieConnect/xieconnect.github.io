@@ -1,0 +1,84 @@
+%% Wei Xie, PhD in Computer Science, Vanderbilt University (Nashville, TN)
+%% Research: 1) (Distributed) Machine learning, Optimization, Big data, privacy-preserving machine learning; 
+%%           2) Quantitative genetics and genomics, Electronic health records (EHR), Genomic data privacy, Computational biology;
+%%           3) Data privacy, Secure multi-party computation (SMC), Applied cryptography, Differential privacy;
+
+
+%% Keywords: meta-analysis, genome-wide association study (GWAS), genomic data privacy, summary statistics, multi-site consortia studies;
+%%    Averaging of machine learning models;
+%%    Distributed machine learning, secure multi-party computation (SMC), cryptography, Paillier encryption, Yao's garbled circuit
+@article{xie2014securema,
+  title={SecureMA: protecting participant privacy in genetic association meta-analysis},
+  author={Xie, Wei and Kantarcioglu, Murat and Bush, William S and Crawford, Dana and Denny, Joshua C and Heatherly, Raymond and Malin, Bradley A},
+  journal={Bioinformatics},
+  volume={30},
+  number={23},
+  pages={3334--3341},
+  year={2014},
+  publisher={Oxford University Press}
+}
+
+
+%% Keywords: Privacy-preserving machine learning, distributed machine learning, Newton method, Iteratively Re-weighted Least Squares (IRLS), distributed numerical optimization, second-order optimization;
+%%  Logistic regression, regularization, penalty, sparse features, feature selection;
+%%  Data privacy, Secure multi-party computation (SMC), cryptography, Shamir's secret share scheme, Summary statistics, aggregate data
+%%  Genome-wide association study (GWAS), healthcare;
+@article{li2016supporting,
+  title={Supporting Regularized Logistic Regression Privately and Efficiently},
+  author={Li, Wenfa and Liu, Hongzhe and Yang, Peng and Xie, Wei},
+  journal={PloS one},
+  volume={11},
+  number={6},
+  pages={e0156479},
+  year={2016},
+  publisher={Public Library of Science}
+}
+
+%% Keywords: Logistic regression (distributed, regularization), Distributed numerical optimization, Customizing optimization for cryptography, faster algorithm, Computational complexity asymmetry;
+%%    Privacy-preserving machine learning;
+%%    Cryptography, secure multi-party computation, Paillier encryption, Yao's garbled circuits;
+@article{xie2016privlogit,
+  title={PrivLogit: Efficient Privacy-preserving Logistic Regression by Tailoring Numerical Optimizers},
+  author={Xie, Wei and Wang, Yang and Boker, Steven M and Brown, Donald E},
+  journal={arXiv preprint arXiv:1611.01170},
+  year={2016}
+}
+
+
+%% Keywords: Computational phenotyping, patient cohort identification, electronic health record (EHR or EMR), case/control extraction from EHR;
+%%  Machine learning, data mining, classifiers, random forest, logistic regression, naive bayesian, decision trees, expert decision rules;
+%%  Type 2 diabetes, Chinese medical records, expert chart review, data labeling, genome-wide association study (GWAS), Phenome-wide association study (PheWAS);
+@article{zheng2017machine,
+  title={A machine learning-based framework to identify type 2 diabetes through electronic health records},
+  author={Zheng, Tao and Xie, Wei and Xu, Liling and He, Xiaoying and Zhang, Ya and You, Mingrong and Yang, Gong and Chen, You},
+  journal={International Journal of Medical Informatics},
+  volume={97},
+  pages={120--127},
+  year={2017},
+  publisher={Elsevier}
+}
+
+
+%% Keywords: Electronic health record (EHR, EMR), machine learning, probabilistic topic modeling, latent direchlet allocation (LDA), latent factors/structures;
+%%  Clinical workflow optimization, workflow modeling, block-based modeling;
+%%  Unsupervised machine learning, Patient cluster, Topic-based interpretation, expert chart review;
+@inproceedings{chen2015inferring,
+  title={Inferring Clinical Workflow Efficiency via Electronic Medical Record Utilization},
+  author={Chen, You and Xie, Wei and Gunter, Carl A and Liebovitz, David and Mehrotra, Sanjay and Zhang, He and Malin, Bradley},
+  booktitle={AMIA Annual Symposium Proceedings},
+  volume={2015},
+  pages={416},
+  year={2015},
+  organization={American Medical Informatics Association}
+}
+
+
+%% Keywords: Transfer learning, common space mapping, semi-supervised machine learning, dimensionality reduction;
+%%    Machine learning, image processing, domain adaptation;
+@inproceedings{liang2016novel,
+  title={A novel transfer learning method based on common space mapping and weighted domain matching},
+  author={Liang, Ru-Ze and Xie, Wei and Li, Weizhi and Wang, Hongqi and Wang, Jim Jing-Yan and Taylor, Lisa},
+  booktitle={Tools with Artificial Intelligence (ICTAI), 2016 IEEE 28th International Conference on},
+  year={2016},
+  organization={IEEE}
+}
